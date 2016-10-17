@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+<style>
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333333;
+}
+
+li {
+    float: left;
+}
+
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 16px;
+    text-decoration: none;
+}
+
+li a:hover {
+    background-color: #111111;
+}
+</style>
+
+
+<!-- <style>
+body {background-color: powderblue;}
+h1   {color: blue;}
+p    {color: red;}
+</style> -->
+
+</head>
+<h1> MEIN TRUMP</h1>
+<marquee><body background="https://bullseye-prod.aggrego.org/wp-ag/wp-content/uploads/sites/72/2015/12/TrumpGOod-1024x643.jpg?o=eyJ4IjowLjUsInkiOjAuNSwid2lkdGgiOjIyMDAsImhlaWdodCI6MTM4M30%3D&amp;s=GQjCmOF8giWgy6n2Uk9jsypA%2Bnw%3D"> <style=><img style="-webkit-user-select: none" src="http://static.boredpanda.com/blog/wp-content/uploads/2016/08/main-trump-small-hands-579fe13b19cc4.gif"><style=><img style="-webkit-user-select: none" src="https://media.giphy.com/media/EO1PaXFeU3lSM/giphy.gif"><style=><img style="-webkit-user-select: none" src="http://i.imgur.com/pdrtcol.gif"><style="margin: 0px;"><img style="-webkit-user-select: none" src="http://media3.giphy.com/media/LCOYJIBYt3zZS/giphy.gif"></marquee>
+<ul>
+  <li><a href="#home">Home</a></li>
+  <li><a href="#news">News</a></li>
+  <li><a href="#contact">Contact</a></li>
+  <li><a href="#about">About</a></li>
+</ul>
+
+<style>
+div.cities {
+    background-color: black;
+    color: white;
+    margin: 20px 0 20px 0;
+    padding: 20px;
+}
+</style>
+
+<div class="cities">
+<h2>MY HERO</h2>
+<p>Trump has tried to so hard to save the world. Some people think his is a madman. But if you ask me, he is the number one man, for the job</p>
+</div>
+
+<div class="cities">
+<h2>HIS INFLUENCE ON MY DECISIONS</h2>
+<p>His passion in relations to congress is powerful. I run my life around his daily dogma. What can I say, Trump is and always will be the number man for the job.</p>
+</div>
+
+<div class="cities">
+<h2>THE REASON I LIVE</h2>
+<p>Who else is better. Even with all the hate he still stands strong. Trump deals with hate on a daily. Still, trump survive not because he is a man, he is the number one man, for the job </p>
+</div>
+                   <footer><font color="#000000">© 2016 Matthew Boyd - All Rights Reserved</font></footer>
+      </body> 
+
+</html>
